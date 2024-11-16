@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contact App</string>
+    <string name="sync_contact">Sync Contact</string>
+    <string name="add_all_new_contacts">Add all new contacts</string>
+    <string name="progress">Progress</string>
+    <string name="delete_contacts">Delete Contacts</string>
+    <string name="delete_all_contacts_older_than_a_month">Delete all contacts older than a month</string>
+</resources>
